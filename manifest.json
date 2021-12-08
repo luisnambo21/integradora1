@@ -16,8 +16,8 @@
       "type": "image/png"
   },
   {
-      "src": "lions_64.png",
-      "sizes": "32x64",
+      "src": "lions_32.png",
+      "sizes": "32x32",
       "type": "image/png"
   },
 

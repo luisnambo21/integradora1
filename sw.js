@@ -5,11 +5,10 @@ const CACHE_NAME = 'v1_cache_Lions',
         'https://fonts.gstatic.com/s/raleway/v12/1Ptrg8zYS_SKggPNwJYtWqZPAA.woff2',
         'https://use.fontawesome.com/releases/v5.0.7/css/all.css',
         'https://use.fontawesome.com/releases/v5.0.6/webfonts/fa-brands-400.woff2',
-        './style.css',
-        './script.js',
-        './lions',
-        './lions_16.png',
-        './lions_16.png',
+        '../public/Index.css',
+        '../public/script.js',
+        '../public/lions_16.png',
+        '../public/lions_16.png',
     ]
 
 //durante la fase de instalación, generalmente se almacena en caché los activos estáticos

@@ -47,11 +47,6 @@
     "src": "lions_512.png",
     "sizes": "512x512",
     "type": "image/png"
-  },
-  {
-      "src": "lions.png",
-      "sizes": "16x16",
-      "type": "image/png"
   }
 ]
 }
